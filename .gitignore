@@ -64,3 +64,5 @@ build/*
 
 # others
 .DS_Store
+py_build_log.txt
+python/quartz/*.pyd
